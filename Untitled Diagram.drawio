@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T03:38:56.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="vs7S_BElYD4-PMr-0CPO" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T03:51:00.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="iuG06bz-0zSXtRXVfeuY" version="15.7.3" type="github">
   <diagram id="hnQG9wUVkO8S85CdUSW5" name="Page-1">
-    <mxGraphModel dx="945" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="945" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LgrQUkmrXFwx17UrA-fh-1" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="LgrQUkmrXFwx17UrA-fh-1" value="Teacher" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LgrQUkmrXFwx17UrA-fh-2" value="Web Page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,8 +64,8 @@
         <mxCell id="LgrQUkmrXFwx17UrA-fh-23" value="3. Valid Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LgrQUkmrXFwx17UrA-fh-24" value="4. See / Select / Enroll Course&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="324" y="150" width="180" height="20" as="geometry" />
+        <mxCell id="LgrQUkmrXFwx17UrA-fh-24" value="4. View His/Her Teaching Course , &amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="150" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LgrQUkmrXFwx17UrA-fh-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -109,8 +109,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LgrQUkmrXFwx17UrA-fh-35" value="7. View Videos , View &amp;amp; Upload Assignments&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="260" height="20" as="geometry" />
+        <mxCell id="LgrQUkmrXFwx17UrA-fh-35" value="7. Add Videos &amp;amp; Assignments&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LgrQUkmrXFwx17UrA-fh-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LgrQUkmrXFwx17UrA-fh-26" target="LgrQUkmrXFwx17UrA-fh-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
