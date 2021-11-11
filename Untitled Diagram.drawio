@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T03:53:17.756Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="WZHS-yMTRYFdpSRoYIh1" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T03:53:46.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="NagRavHYhXh6gypyNwWo" version="15.7.3" type="github">
   <diagram id="hnQG9wUVkO8S85CdUSW5" name="Page-1">
     <mxGraphModel dx="945" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,8 @@
         <mxCell id="LgrQUkmrXFwx17UrA-fh-23" value="3. Valid Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LgrQUkmrXFwx17UrA-fh-24" value="4. View His/Her Teaching Course ,&amp;amp; Wallet&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="150" width="250" height="20" as="geometry" />
+        <mxCell id="LgrQUkmrXFwx17UrA-fh-24" value="4. View His/Her Teaching Course &amp;amp; Wallet&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="150" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LgrQUkmrXFwx17UrA-fh-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
